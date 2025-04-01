@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Sensors)
 
 
 
-    _populate_Sensors_target_properties(DEBUG "Qt5Sensorsd.dll" "libQt5Sensorsd.a" )
+#    _populate_Sensors_target_properties(DEBUG "Qt5Sensorsd.dll" "libQt5Sensorsd.a" )
 
 
 

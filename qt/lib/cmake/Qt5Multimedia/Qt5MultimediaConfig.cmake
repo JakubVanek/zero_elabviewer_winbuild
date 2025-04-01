@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Multimedia)
 
 
 
-    _populate_Multimedia_target_properties(DEBUG "Qt5Multimediad.dll" "libQt5Multimediad.a" )
+#    _populate_Multimedia_target_properties(DEBUG "Qt5Multimediad.dll" "libQt5Multimediad.a" )
 
 
 

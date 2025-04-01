@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::XmlPatterns)
 
 
 
-    _populate_XmlPatterns_target_properties(DEBUG "Qt5XmlPatternsd.dll" "libQt5XmlPatternsd.a" )
+#    _populate_XmlPatterns_target_properties(DEBUG "Qt5XmlPatternsd.dll" "libQt5XmlPatternsd.a" )
 
 
 

@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Designer)
 
 
 
-    _populate_Designer_target_properties(DEBUG "Qt5Designerd.dll" "libQt5Designerd.a" )
+#    _populate_Designer_target_properties(DEBUG "Qt5Designerd.dll" "libQt5Designerd.a" )
 
 
 

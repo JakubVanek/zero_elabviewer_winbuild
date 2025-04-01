@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::DBus)
 
 
 
-    _populate_DBus_target_properties(DEBUG "Qt5DBusd.dll" "libQt5DBusd.a" )
+#    _populate_DBus_target_properties(DEBUG "Qt5DBusd.dll" "libQt5DBusd.a" )
 
 
 

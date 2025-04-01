@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::SerialPort)
 
 
 
-    _populate_SerialPort_target_properties(DEBUG "Qt5SerialPortd.dll" "libQt5SerialPortd.a" )
+#    _populate_SerialPort_target_properties(DEBUG "Qt5SerialPortd.dll" "libQt5SerialPortd.a" )
 
 
 

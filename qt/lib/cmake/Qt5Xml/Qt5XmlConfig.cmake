@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Xml)
 
 
 
-    _populate_Xml_target_properties(DEBUG "Qt5Xmld.dll" "libQt5Xmld.a" )
+#    _populate_Xml_target_properties(DEBUG "Qt5Xmld.dll" "libQt5Xmld.a" )
 
 
 

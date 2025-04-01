@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::QuickTest)
 
 
 
-    _populate_QuickTest_target_properties(DEBUG "Qt5QuickTestd.dll" "libQt5QuickTestd.a" )
+#    _populate_QuickTest_target_properties(DEBUG "Qt5QuickTestd.dll" "libQt5QuickTestd.a" )
 
 
 

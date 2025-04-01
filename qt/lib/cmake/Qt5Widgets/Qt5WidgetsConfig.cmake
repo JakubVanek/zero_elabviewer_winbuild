@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Widgets)
 
 
 
-    _populate_Widgets_target_properties(DEBUG "Qt5Widgetsd.dll" "libQt5Widgetsd.a" )
+#    _populate_Widgets_target_properties(DEBUG "Qt5Widgetsd.dll" "libQt5Widgetsd.a" )
 
 
 

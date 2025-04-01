@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Core)
 
 
 
-    _populate_Core_target_properties(DEBUG "Qt5Cored.dll" "libQt5Cored.a" )
+#    _populate_Core_target_properties(DEBUG "Qt5Cored.dll" "libQt5Cored.a" )
 
 
 

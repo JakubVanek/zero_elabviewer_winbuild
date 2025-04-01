@@ -126,7 +126,7 @@ if (NOT TARGET Qt5::Concurrent)
 
 
 
-    _populate_Concurrent_target_properties(DEBUG "Qt5Concurrentd.dll" "libQt5Concurrentd.a" )
+#    _populate_Concurrent_target_properties(DEBUG "Qt5Concurrentd.dll" "libQt5Concurrentd.a" )
 
 
 

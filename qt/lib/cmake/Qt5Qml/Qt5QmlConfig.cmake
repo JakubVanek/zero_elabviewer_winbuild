@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Qml)
 
 
 
-    _populate_Qml_target_properties(DEBUG "Qt5Qmld.dll" "libQt5Qmld.a" )
+#    _populate_Qml_target_properties(DEBUG "Qt5Qmld.dll" "libQt5Qmld.a" )
 
 
 

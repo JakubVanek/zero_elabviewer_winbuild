@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::WinExtras)
 
 
 
-    _populate_WinExtras_target_properties(DEBUG "Qt5WinExtrasd.dll" "libQt5WinExtrasd.a" )
+#    _populate_WinExtras_target_properties(DEBUG "Qt5WinExtrasd.dll" "libQt5WinExtrasd.a" )
 
 
 

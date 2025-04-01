@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Test)
 
 
 
-    _populate_Test_target_properties(DEBUG "Qt5Testd.dll" "libQt5Testd.a" )
+#    _populate_Test_target_properties(DEBUG "Qt5Testd.dll" "libQt5Testd.a" )
 
 
 

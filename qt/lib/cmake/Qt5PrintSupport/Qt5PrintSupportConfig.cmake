@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::PrintSupport)
 
 
 
-    _populate_PrintSupport_target_properties(DEBUG "Qt5PrintSupportd.dll" "libQt5PrintSupportd.a" )
+#    _populate_PrintSupport_target_properties(DEBUG "Qt5PrintSupportd.dll" "libQt5PrintSupportd.a" )
 
 
 

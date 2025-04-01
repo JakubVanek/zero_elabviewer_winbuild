@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Gui)
 
 
 
-    _populate_Gui_target_properties(DEBUG "Qt5Guid.dll" "libQt5Guid.a" )
+#    _populate_Gui_target_properties(DEBUG "Qt5Guid.dll" "libQt5Guid.a" )
 
 
 

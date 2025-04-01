@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Svg)
 
 
 
-    _populate_Svg_target_properties(DEBUG "Qt5Svgd.dll" "libQt5Svgd.a" )
+#    _populate_Svg_target_properties(DEBUG "Qt5Svgd.dll" "libQt5Svgd.a" )
 
 
 

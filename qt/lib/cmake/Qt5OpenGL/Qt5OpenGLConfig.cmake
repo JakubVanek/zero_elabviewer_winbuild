@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::OpenGL)
 
 
 
-    _populate_OpenGL_target_properties(DEBUG "Qt5OpenGLd.dll" "libQt5OpenGLd.a" )
+#    _populate_OpenGL_target_properties(DEBUG "Qt5OpenGLd.dll" "libQt5OpenGLd.a" )
 
 
 

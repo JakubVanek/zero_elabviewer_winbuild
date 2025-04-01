@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Sql)
 
 
 
-    _populate_Sql_target_properties(DEBUG "Qt5Sqld.dll" "libQt5Sqld.a" )
+#    _populate_Sql_target_properties(DEBUG "Qt5Sqld.dll" "libQt5Sqld.a" )
 
 
 

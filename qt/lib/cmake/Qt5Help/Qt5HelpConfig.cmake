@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Help)
 
 
 
-    _populate_Help_target_properties(DEBUG "Qt5Helpd.dll" "libQt5Helpd.a" )
+#    _populate_Help_target_properties(DEBUG "Qt5Helpd.dll" "libQt5Helpd.a" )
 
 
 

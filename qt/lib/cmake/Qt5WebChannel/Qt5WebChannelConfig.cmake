@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::WebChannel)
 
 
 
-    _populate_WebChannel_target_properties(DEBUG "Qt5WebChanneld.dll" "libQt5WebChanneld.a" )
+#    _populate_WebChannel_target_properties(DEBUG "Qt5WebChanneld.dll" "libQt5WebChanneld.a" )
 
 
 

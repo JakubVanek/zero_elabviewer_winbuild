@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Network)
 
 
 
-    _populate_Network_target_properties(DEBUG "Qt5Networkd.dll" "libQt5Networkd.a" )
+#    _populate_Network_target_properties(DEBUG "Qt5Networkd.dll" "libQt5Networkd.a" )
 
 
 

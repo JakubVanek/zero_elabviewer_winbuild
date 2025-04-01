@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Positioning)
 
 
 
-    _populate_Positioning_target_properties(DEBUG "Qt5Positioningd.dll" "libQt5Positioningd.a" )
+#    _populate_Positioning_target_properties(DEBUG "Qt5Positioningd.dll" "libQt5Positioningd.a" )
 
 
 

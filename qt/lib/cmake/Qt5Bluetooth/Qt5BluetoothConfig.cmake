@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Bluetooth)
 
 
 
-    _populate_Bluetooth_target_properties(DEBUG "Qt5Bluetoothd.dll" "libQt5Bluetoothd.a" )
+#    _populate_Bluetooth_target_properties(DEBUG "Qt5Bluetoothd.dll" "libQt5Bluetoothd.a" )
 
 
 

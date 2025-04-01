@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::Nfc)
 
 
 
-    _populate_Nfc_target_properties(DEBUG "Qt5Nfcd.dll" "libQt5Nfcd.a" )
+#    _populate_Nfc_target_properties(DEBUG "Qt5Nfcd.dll" "libQt5Nfcd.a" )
 
 
 

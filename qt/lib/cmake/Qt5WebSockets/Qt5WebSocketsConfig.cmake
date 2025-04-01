@@ -129,7 +129,7 @@ if (NOT TARGET Qt5::WebSockets)
 
 
 
-    _populate_WebSockets_target_properties(DEBUG "Qt5WebSocketsd.dll" "libQt5WebSocketsd.a" )
+#    _populate_WebSockets_target_properties(DEBUG "Qt5WebSocketsd.dll" "libQt5WebSocketsd.a" )
 
 
 
